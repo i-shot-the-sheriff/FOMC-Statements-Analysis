@@ -14,8 +14,6 @@ In this repository, you will find the following files:
 
 We would also like to thank Professor **Sylvain Champonnois** for the support and knowledge they gave us.
 
-### Problematic
-
 
 ### Contact us
 
