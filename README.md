@@ -2,11 +2,6 @@
 
 Our project tries to predict the interest rates changes in the future. We focus on the **NLP** method and **XGBoost** method.
 
-### Table of Contents
-
-* [About the Project](#about_the_project)
-* [Problematic](#prob)
-* [Contact us](#contact)
   
 ### About the Project
 This repository contains our final work for the **Machine-learning for Portfolio Management and Trading** course at **ENSAE**, Institut Polytechnique de Paris.
